@@ -7,7 +7,7 @@ app.use(express.json());
 
 
 const mockCourses = [
-  { id: 1, title: 'React Basics', content: 'Learn the basics of React, including components, state, and props.' },
+  { id: 1, title: 'frontendBasics', content: 'Learn the basics of React, including components, state, and props.' },
   { id: 2, title: 'Express API', content: 'Build RESTful APIs with Express.js and Node.js.' },
   { id: 3, title: 'Full Stack Project', content: 'Combine React and Express to build a full-stack project.' },
   { id: 4, title: 'Operating Systems', content: 'Understand OS concepts: processes, memory management, scheduling, and file systems.' },
