@@ -1,8 +1,5 @@
 # Skillsync-Project
-Learning management project to learn Computer science fundamentals
-
-# SkillSync
-
+Learning management System to learn Computer science fundamentals
 SkillSync is a full-stack Learning Management System with a React.js frontend and an Express.js backend.
 
 ## Project Structure
@@ -26,10 +23,7 @@ SkillSync is a full-stack Learning Management System with a React.js frontend an
 - Course management (CRUD)
 - Enrollment
 
-## Next Steps
-- Implement authentication and course APIs in `server/`
-- Build React components for login, course list, and enrollment in `client/`
+
 
 ---
 
-For more details, see `.github/copilot-instructions.md`.
